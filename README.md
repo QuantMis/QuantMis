@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ellaiyarasan</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h1 align="center">Hi 👋, I'm QuantMis</h1>
+<h3 align="center">A software engineer from Malaysia</h3>
 
-- 🔭 I’m currently working on [ecommerce-product-react](https://ellai-ecommerce.netlify.app/)
+- 🌱 I’m currently learning **Flutter, React, AWS Services, Next.js**
 
-- 🌱 I’m currently learning **React, Redux, AWS Services, Vue**
+- 💬 Ask me about **Flutter, Laravel, AWS, DigitalOcean**
 
-- 📝 I regularly write articles on [https://dev.to/ellaidevs](https://dev.to/ellaidevs)
-
-- 💬 Ask me about **React, Vue, AWS, Firebase**
-
-- 📫 How to reach me **https://www.linkedin.com/in/ellai/**
+- 📫 How to reach me **[https://www.linkedin.com/in/ellai/](https://my.linkedin.com/in/israaibnusaifullah)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
