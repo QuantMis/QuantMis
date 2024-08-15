@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm QuantMis</h1>
 <h3 align="center">A software engineer from Malaysia</h3>
 
-- 🌱 I’m currently using **Flutter & Swift**
+- 🌱 I’m currently using **Flutter, Swift, Laravel**
 
 - 📫 How to reach me **[https://www.linkedin.com/in/israaibnusaifullah/](https://my.linkedin.com/in/israaibnusaifullah)**
 
