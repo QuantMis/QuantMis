@@ -9,9 +9,9 @@ Running [CodeDanCoffee.io](https://codedancoffee.io), a mobile app studio
 
 <!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/0ad0cf6f-cfdc-4450-9113-d0b31342b907 alt="SaltyAom's Haruna cosplay" /> --->
 
-<p align=center>
-  <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" width="50%" />
-  <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" width="50%" />
+<p>
+  <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" width="45%" />
+  <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" width="45%" />
 </p>
 <br />
 
