@@ -6,7 +6,7 @@ I make web and mobile application using these tech stacks:
   </a>
 </p>
 
-Currently working on [codedancoffee.io](https://codedancoffee.io), my mobile app studio. Here are some of my products:
+Solo run [codedancoffee.io](https://codedancoffee.io), my mobile app studio. Here are some of my products:
 
 <!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
@@ -26,7 +26,5 @@ Currently working on [codedancoffee.io](https://codedancoffee.io), my mobile app
 
 ---
 
-## Stuff I made
-- [PyLab](https://elysiajs.com): Ergonomic framework for Humans
-- [MathGo](https://niku.saltyaom.com): Effortlessly compose your Flutter UI for humans.
-- [Malaysia Prayer Time](https://github.com/saltyaom/mobius) - GraphQL schema to TypeScript without code generation
+## Active Projects
+- [LaraPos]([https://elysiajs.com](https://github.com/QuantMis/larapos)): Pos System built using Laravel, Inertia, Vue for Learning Purposes.
