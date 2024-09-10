@@ -1,5 +1,10 @@
 # QuantMis
-I make web and mobile application.
+I make web and mobile application using these tech stacks:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,vue,php,laravel,dart,flutter,swift,swiftui" />
+  </a>
+</p>
 
 Running [CodeDanCoffee.io](https://codedancoffee.io), a mobile app studio
 
@@ -11,16 +16,8 @@ Running [CodeDanCoffee.io](https://codedancoffee.io), a mobile app studio
 
 <p>
   <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" width="45%" />
-  <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" width="45%" />
+  <img src=https://codedancoffee.io/assets/mathgo2.jpeg alt="MathGo" width="45%" />
 </p>
-<br />
-
-<p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,vue,php,laravel,dart,flutter,swift,swiftui" />
-  </a>
-</p>
-
 <br />
 
 ---
