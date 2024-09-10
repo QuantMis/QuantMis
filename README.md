@@ -6,7 +6,7 @@ I make web and mobile application using these tech stacks:
   </a>
 </p>
 
-Running [CodeDanCoffee.io](https://codedancoffee.io), a mobile app studio
+Running [CodeDanCoffee.io](https://codedancoffee.io), a mobile app studio. Here are some of my products:
 
 <!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
