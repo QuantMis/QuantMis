@@ -15,10 +15,10 @@ Currently working on [CodeDanCoffee.io](https://codedancoffee.io), my mobile app
 <!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/0ad0cf6f-cfdc-4450-9113-d0b31342b907 alt="SaltyAom's Haruna cosplay" /> --->
 
 <p>
-  <a href="https://apps.apple.com/us/app/learn-python-pylab/id6466706952">
+  <a href="https://apps.apple.com/us/app/learn-python-pylab/id6466706952" target="_blank">
     <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" width="45%" /> 
   </a>
-  <a href="https://apps.apple.com/us/app/math-go-quick-brain-teaser/id6475046118">
+  <a href="https://apps.apple.com/us/app/math-go-quick-brain-teaser/id6475046118" target="_blank">
      <img src=https://codedancoffee.io/assets/mathgo2.jpeg alt="MathGo" width="45%" /> 
   </a>
 </p>
