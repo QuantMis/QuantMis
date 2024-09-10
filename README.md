@@ -1,52 +1,35 @@
-<h1 align="center">Hi 👋, I'm QuantMis</h1>
-<h3 align="center">A software engineer from Malaysia</h3>
+# QuantMis
+I make web and mobile application.
 
-- 🌱 I’m currently using **Flutter, Swift, Laravel**
+Running [CodeDanCoffee.io](https://codedancoffee.io), a mobile app studio
 
-- 📫 How to reach me **[https://www.linkedin.com/in/israaibnusaifullah/](https://my.linkedin.com/in/israaibnusaifullah)**
+<!--- ![SaltyAom's Raiden Shogun cosplay](https://github.com/SaltyAom/SaltyAom/assets/35027979/a5fb5435-79a2-4dc7-9eb8-dd6c8af5969e) --->
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/68725802-2675-4a11-ad45-eb1bcc3e5827 alt="SaltyAom's Nightingale cosplay" /> --->
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-</div>
+<!--- <img src=https://github.com/SaltyAom/SaltyAom/assets/35027979/0ad0cf6f-cfdc-4450-9113-d0b31342b907 alt="SaltyAom's Haruna cosplay" /> --->
 
-</td><td valign="top" width="33%">
+<p align=center>
+  <img src=https://codedancoffee.io/assets/pylab.png alt="PyLab" />
+</p>
 
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,vue,php,laravel,dart,flutter,swift,swiftui" />
+  </a>
+</p>
 
+<br />
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## Stuff I made
+- [PyLab](https://elysiajs.com): Ergonomic framework for Humans
+- [MathGo](https://niku.saltyaom.com): Effortlessly compose your Flutter UI for humans.
+- [Malaysia Prayer Time](https://github.com/saltyaom/mobius) - GraphQL schema to TypeScript without code generation
 
+<img src=https://user-images.githubusercontent.com/35027979/198816875-2bc9704e-c96d-4472-adb7-1bdb9d461e72.gif width=360 height=360 alt="Mutsuki" />
 
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quantmis&" alt="quantmis" /></p>
+```math
+\ce{$&#x5C;unicode[goombafont; z-index: -10; pointer-events: none; position: fixed; top: 0; left: 0; width: 100%; opacity: 0.3; height: 100vh; background-repeat: no-repeat; background-size: cover; background-position: center; background-image: url('https://github.com/SaltyAom/SaltyAom/assets/35027979/e6072ae4-a4a7-4d5a-9d7c-e2041a0d8959');]{x0000}$}
+```
