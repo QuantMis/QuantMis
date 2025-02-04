@@ -27,4 +27,5 @@ Solo run [codedancoffee.io](https://codedancoffee.io), my mobile app studio. Her
 ---
 
 ## Active Projects
-- [LaraPos]([https://elysiajs.com](https://github.com/QuantMis/larapos)): Pos System built using Laravel, Inertia, Vue for Learning Purposes.
+- [.NET User Service](https://github.com/QuantMis/dotnet-microservices): User service API developed using .NET for learning purposes.
+- [LaraPos](https://github.com/QuantMis/larapos): Pos System built using Laravel, Inertia, Vue for Learning Purposes.
