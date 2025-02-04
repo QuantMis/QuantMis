@@ -1,8 +1,8 @@
 # QuantMis
-I make web and mobile application using these tech stacks:
+I create solutions using these technologies
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,vue,php,laravel,dart,flutter,swift,swiftui" />
+    <img src="https://skillicons.dev/icons?i=typescript,vue,php,laravel,dart,flutter,swift,swiftui,aws,gcp,python,docket,git,terraform,tailwind,react,postgres,nodejs,nextjs,mongodb,maerialui,linux,jquery,js,html,firebase,fastapi,django,css,cloudflare,cs,bootstrap,bash,astro,angular," />
   </a>
 </p>
 
